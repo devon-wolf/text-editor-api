@@ -1,7 +1,7 @@
 {
-  "name": "typescript-node-sandbox",
+  "name": "slate-editor-api",
   "version": "1.0.0",
-  "description": "Trying to figure out the smoothest, leanest TS setup for Node.",
+  "description": "API routes and database for a collaborative text editor",
   "main": "dist/server.js",
   "scripts": {
     "test": "jest",
